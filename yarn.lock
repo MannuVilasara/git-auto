@@ -146,6 +146,26 @@
   resolved "https://registry.npmjs.org/@kwsites/promise-deferred/-/promise-deferred-1.1.1.tgz"
   integrity sha512-GaHYm+c0O9MjZRu0ongGBRbinu8gVAMd2UZjji6jVmqKtZluZnptXGWhz1E8j8D2HJ3f/yMxKAUC0b+57wncIw==
 
+"@oxlint/darwin-arm64@1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@oxlint/darwin-arm64/-/darwin-arm64-1.6.0.tgz#68d197eeb3dd599f5d2ca6e04ee59654df26e69e"
+  integrity sha512-m3wyqBh1TOHjpr/dXeIZY7OoX+MQazb+bMHQdDtwUvefrafUx+5YHRvulYh1sZSQ449nQ3nk3qj5qj535vZRjg==
+
+"@oxlint/darwin-x64@1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@oxlint/darwin-x64/-/darwin-x64-1.6.0.tgz#4f2abbbd39b2fb196c072460a1dcac0d73d927ec"
+  integrity sha512-75fJfF/9xNypr7cnOYoZBhfmG1yP7ex3pUOeYGakmtZRffO9z1i1quLYhjZsmaDXsAIZ3drMhenYHMmFKS3SRg==
+
+"@oxlint/linux-arm64-gnu@1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@oxlint/linux-arm64-gnu/-/linux-arm64-gnu-1.6.0.tgz#cbb78ce5826bcfee49c943d3dce38d21e73556ae"
+  integrity sha512-YhXGf0FXa72bEt4F7eTVKx5X3zWpbAOPnaA/dZ6/g8tGhw1m9IFjrabVHFjzcx3dQny4MgA59EhyElkDvpUe8A==
+
+"@oxlint/linux-arm64-musl@1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@oxlint/linux-arm64-musl/-/linux-arm64-musl-1.6.0.tgz#0bbc7d32845d600e20d1fd68e3aaf29fdcb4f786"
+  integrity sha512-T3JDhx8mjGjvh5INsPZJrlKHmZsecgDYvtvussKRdkc1Nnn7WC+jH9sh5qlmYvwzvmetlPVNezAoNvmGO9vtMg==
+
 "@oxlint/linux-x64-gnu@1.6.0":
   version "1.6.0"
   resolved "https://registry.npmjs.org/@oxlint/linux-x64-gnu/-/linux-x64-gnu-1.6.0.tgz"
@@ -156,7 +176,17 @@
   resolved "https://registry.npmjs.org/@oxlint/linux-x64-musl/-/linux-x64-musl-1.6.0.tgz"
   integrity sha512-7KvMGdWmAZtAtg6IjoEJHKxTXdAcrHnUnqfgs0JpXst7trquV2mxBeRZusQXwxpu4HCSomKMvJfsp1qKaqSFDg==
 
-"@types/node@^24.0.12", "@types/node@>=18":
+"@oxlint/win32-arm64@1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@oxlint/win32-arm64/-/win32-arm64-1.6.0.tgz#af1f285fb6d00830c34c0e71c0e63f688f6552cf"
+  integrity sha512-iSGC9RwX+dl7o5KFr5aH7Gq3nFbkq/3Gda6mxNPMvNkWrgXdIyiINxpyD8hJu566M+QSv1wEAu934BZotFDyoQ==
+
+"@oxlint/win32-x64@1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@oxlint/win32-x64/-/win32-x64-1.6.0.tgz#4136819bcd4018f474620bf9cd6d788c292bb7ba"
+  integrity sha512-jOj3L/gfLc0IwgOTkZMiZ5c673i/hbAmidlaylT0gE6H18hln9HxPgp5GCf4E4y6mwEJlW8QC5hQi221+9otdA==
+
+"@types/node@^24.0.12":
   version "24.0.12"
   resolved "https://registry.npmjs.org/@types/node/-/node-24.0.12.tgz"
   integrity sha512-LtOrbvDf5ndC9Xi+4QZjVL0woFymF/xSTKZKPgrrl7H7XoeDvnD+E2IclKVDyaK9UM756W/3BXqSU+JEHopA9g==
