@@ -18,8 +18,12 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.4.1",
+    "fs": "^0.0.1-security",
     "inquirer": "^12.7.0",
     "ora": "^8.2.0",
     "simple-git": "^3.28.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.12"
   }
 }
