@@ -19,12 +19,6 @@ A command-line tool that streamlines your Git workflow by providing interactive 
 - Node.js (version 14 or higher)
 - Git
 
-### Global Installation
-
-```bash
-npm install -g git-auto
-```
-
 ### Local Installation
 
 ```bash
