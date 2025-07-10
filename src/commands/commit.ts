@@ -22,7 +22,7 @@ const commit = async (type: string, message: string, push: boolean) => {
                 .push("origin", "main")
                 .then(() => {
                     spinner.succeed(
-                        chalk.green("✔ Changes pushed to remote repository!"),
+                        chalk.green("Changes pushed to remote repository!"),
                     );
                 })
                 .catch((error) => {
