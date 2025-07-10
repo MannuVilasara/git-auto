@@ -1,0 +1,25 @@
+{
+  "name": "git-auto",
+  "version": "1.0.0",
+  "description": "tool that I use for adding and commiting files with my formatted commit messages",
+  "main": "src/index.js",
+  "bin": {
+    "git-auto": "./bin/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "nodemon --exec ts-node src/index.ts"
+  },
+  "repository": "https://github.com/MannuVilasara/git-auto.git",
+  "author": "MannuVilasara",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "inquirer": "^12.7.0",
+    "ora": "^8.2.0",
+    "simple-git": "^3.28.0"
+  }
+}
